@@ -45,8 +45,7 @@ Open your terminal inside this folder (`C:\Users\B SRAVANTHI\.gemini\antigravity
 php -S localhost:8000
 ```
 #DEMO VIDEO:
-https://www.linkedin.com/posts/sravanthi-v-880002415_apexplanet-webdevelopment-php-activity-7474313980434542592--euQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGmKomAB9pHnMjdMezEoRyLTMuniH02ChZE
-
+https://www.linkedin.com/posts/sravanthi-v-880002415_apexplanet-webdevelopment-php-activity-7474324624856604673-2J4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGmKomAB9pHnMjdMezEoRyLTMuniH02ChZE
 ### 2. Access the Application
 Open your web browser and navigate to:
 * **Register Admin/User:** [http://localhost:8000/register.php](http://localhost:8000/register.php)
